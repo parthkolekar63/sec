@@ -1,0 +1,5 @@
+{
+  "name": "Phishing Detector Pro",
+  "description": "A desktop-ready Python application that uses Gemini AI to detect phishing indicators in messages.",
+  "requestFramePermissions": []
+}
